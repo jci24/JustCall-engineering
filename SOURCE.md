@@ -11,4 +11,5 @@ it contains no grammar catalogue, learner-profile contracts, evaluation material
 private development history, recordings, transcripts, reviewer records, credentials,
 operational reports or previous repository Actions history.
 
-This is a reduced local draft. Publishing it requires a separate decision.
+This publication contains only the reduced engineering sample. The full product
+and broader portfolio repositories remain private.
