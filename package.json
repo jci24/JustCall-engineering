@@ -1,0 +1,19 @@
+{
+  "name": "justcall-engineering",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Generic call lifecycle example from a founder-led React Native product",
+  "scripts": {
+    "test": "vitest run",
+    "typecheck": "tsc --noEmit"
+  },
+  "engines": {
+    "node": "^22.13.0 || >=24.0.0"
+  },
+  "devDependencies": {
+    "@types/node": "22.20.2",
+    "typescript": "6.0.3",
+    "vitest": "4.1.11",
+    "vite": "8.2.2"
+  }
+}
